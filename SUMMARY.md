@@ -11,5 +11,5 @@
       * [Core Components](introduction/the-secure-compute-platform/overview-of-secure-compute/core-components.md)
       * [Ecosystem Members](introduction/the-secure-compute-platform/overview-of-secure-compute/ecosystem-members.md)
   * [Tutorials](howto/README.md)
-    * [New Page](howto/new-page.md)
+    * [Getting Started](howto/new-page.md)
     * [Add Dune Widget](howto/add-dune-widget.md)
